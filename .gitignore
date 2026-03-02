@@ -7,3 +7,4 @@ pyenvunittests
 coverage.xml
 samconfig.toml
 jenkinsfile
+jenkinsfile_agentes
